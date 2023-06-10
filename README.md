@@ -1,7 +1,7 @@
 ### Hey Welcome, I'm Daniela Fehlow 👋
 
 
-• 💻 I’m currently learning HTML, CSS, JS and REACT. 
+• 💻 I’m currently studying Systems Analysis and development at college and i'm always learning about HTML, CSS, JS, APPIAN and REACT. 
 
 • 👩‍🍳 Fun fact: I love to cook.
 
