@@ -9,15 +9,6 @@
 
 ### A little about me
 
-As a development student, seeing projects taking shape is what I love, it's amazing to be abI’m currently studying Systems Analysis and development at college and i'm always learning about HTML, CSS, JS, APPIAN and REACT. 
-
-• 👩‍🍳 Fun fact: I love to cook.
-
-• 💛 I love technology, reading books, watching series, movies,going to the movies and play video game. 🎮 I also love to travel. ✈️ 
-
-### A little about me
-
-A little about me
 As a development and cyber Security student, seeing projects taking shape is what I love, it's amazing to be able to learn more and more, use creativity and know how much I can improve people's experience through this, it's what makes me love even more working with the technology and Cyber Security. As a professional, I am always looking to improve my performance to achieve my goals.
 
 In life I value friendships and family, I value being always present to enjoy every moment with the people I love.
